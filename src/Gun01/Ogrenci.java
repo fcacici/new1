@@ -8,5 +8,7 @@ public class Ogrenci {
         System.out.println("merhaba 4");
 
         // This is fca branch.
+
+        System.out.println("Su anda kendi projem uzerinden calisiyorum bakacagiz");
     }
 }
